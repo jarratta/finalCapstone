@@ -11,6 +11,8 @@ The application provides the following functions:
 * SEARCH: Find information for a particular shoe
 * SHOW: See the inventory valuation report
 * DISPLAy: Show the shoe with the most inventory
+
+
 ![image](https://user-images.githubusercontent.com/123466771/221157354-0ebf184f-541d-4551-8b53-5bc457c76a07.png)
 
 ***## Installation***
